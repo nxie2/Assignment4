@@ -6,6 +6,11 @@
 	<title>Assignment 2 Flash Website</title>
 	<link rel="stylesheet" href="css/styles.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300i" rel="stylesheet">
 </head>
 <body>
 	<header>
@@ -29,5 +34,7 @@
 
    <?php include "inc/nav.inc";?>
 
+	<script src="http://code.jquery.com/jquery.js"></script>
+   <script src="js/menu-highlighter.js"></script>
 </body>
 </html>
