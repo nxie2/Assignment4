@@ -1,79 +1,85 @@
-/** {
-	border: 1px solid hotpink;
-	padding: 2px;
+/*{
+   border: 1px solid hotpink;
+   padding:2px;
 }*/
-
 .container{
-	margin:	0 auto;
-	width: 90%;
-	max-width: 960px;
-
-	display: grid;
-	grid-template-columns: 260px 1fr 200px;
+   margin: 0 auto;
+   width: 90%;
+   max-width:960px;
+   display: grid;
+   grid-template-columns:260px 1fr 200px;
 }
+
 .is-current {
-	background-color: black;
-	color: white;
-}
-header	{
-	grid-column: 1 / 2;
-}
+      background-color: black;
+      color: white;
+   }
 header a {
-	display: block;
-	position: relative;
+   display: block;
+   position:relative;
+   font-family: 'Amatic SC';
+   color:black;
+   font-size:1em;
+   letter-spacing: 10px;
+
 }
-header h1 {
-	transform: rotate(-90deg);
-	position: absolute;
-	z-index: 100;
-	top: 100px;
-	left: -76px;
-	
-	font-family: 'Merienda One', cursive;
+header h1{
+   transform:rotate(-90deg);
+   position:absolute;
+   z-index:100;
+   top:70px;
+   left:-160px;
+
 }
-header a img {
-	padding-left: 39px;
+.subHead{
+   font-family: 'Amatic SC';
+   font-size:3em;
+
 }
-aside {
-	grid-column: 2 / 4;
-	align-self: end;
-	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: x-large;
-	font-style: italic;
-}
-aside ul {
-	list-style-type: none;
-	padding-left: 0px;
+header{
+   grid-column:1 / 2;
 }
 
-main{ grid-column: 1 / 4; }
-
-main h2 {
-	font-family: 'Staatliches', cursive;
+main{
+   grid-column: 1/4;
+   align-self: end;
+   font-family: 'Open Sans Condensed', sans-serif;
 }
 
-footer { 
-	grid-column: 1 / 2; 
-	font-family: 'Lobster', cursive;
+aside{
+   grid-column: 2 / 4;
+   align-self:end;
+   font-family: 'Roboto', sans-serif;
+   line-height: 10px;
+
 }
 
-nav {
-	grid-column: 2 / 4;
-	font-family: 'Faster One', cursive;
-}
-nav ul 	{
-	display: flex;
-	justify-content: flex-end;
-	list-style-type: none;
+footer{
+   grid-column: 1 / 2;
+   font-family: 'Anton', sans-serif;
+
 }
 
-nav li {
-	margin-left: 10px;
-	padding: 10px;
+nav{
+   grid-column: 2 / 4;
+   color:black;
+
 }
-nav li a {
-	padding: 10px;
+
+nav ul{
+   display: flex;
+   justify-content: flex-end;
+   list-style:none;
+
+
 }
-p {
-	font-family: 'Prata', serif;
+
+nav li{
+   margin-left: 20px;
+   font-family: 'Open Sans Condensed', sans-serif;
+   }
+
+a{
+   color:black;
+   text-decoration:none;
 }
