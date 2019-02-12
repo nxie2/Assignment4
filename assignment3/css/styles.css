@@ -84,7 +84,10 @@ header ul{
    list-style-type: none;
 }
 
-main li{
+main a{
    color: lightcoral;
+}
+
+main ol{
    list-style-type: none;
 }
