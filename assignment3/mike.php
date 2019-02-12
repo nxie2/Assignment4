@@ -35,9 +35,9 @@
 
        <h1>Sources</h1>
        <ol>
-           <li><a href="https://en.wikipedia.org/wiki/Strawberry"></a> Garden Strawberry</li>
-           <li><a href="https://en.wikipedia.org/wiki/Lemon"></a>Lemon</li>
-           <li><a href="https://en.wikipedia.org/wiki/Apple"></a>Apple</li>
+           <li><a href="https://en.wikipedia.org/wiki/Strawberry">Garden Strawberry</a></li>
+           <li><a href="https://en.wikipedia.org/wiki/Lemon">Lemon</a></li>
+           <li><a href="https://en.wikipedia.org/wiki/Apple">Apple</a></li>
        </ol>
 
    </main>

@@ -38,3 +38,26 @@ a{
    color:black;
    text-decoration:none;
 }
+header{
+   grid-column:1 / 2;
+}
+
+main{
+   grid-column: 1/4;
+   align-self: end;
+   font-family: 'Open Sans Condensed', sans-serif;
+}
+
+footer{
+   grid-column: 1 / 2;
+   font-family: 'Anton', sans-serif;
+
+}
+
+header ul{
+   list-style-type: none;
+}
+
+ol{
+   list-style-type: none;
+}
