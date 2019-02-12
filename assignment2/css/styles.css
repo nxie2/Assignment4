@@ -37,7 +37,7 @@ header h1{
 
 }
 .indexHead{
-   grid-column:2/4;
+   grid-column:1/4;
 }
 header{
    grid-column:1 / 2;
