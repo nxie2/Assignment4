@@ -12,7 +12,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300i" rel="stylesheet">
 </head>
-<body>
+<body class = container>
 	<header>
       <a href = "index.php">
          <img src ="images/rochester.jpeg" alt="Rochester">
@@ -20,8 +20,8 @@
    </header>
 
    <main>
-	  <h1>City</h1>
-	  
+	  <h1 class = subHead>City</h1>
+
 	  <p>Rochester is a city in NY that only kinda sucks.</p>
 
 	  <h1>Team</h1>
