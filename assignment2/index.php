@@ -13,7 +13,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300i" rel="stylesheet">
 </head>
 <body class = container>
-	<header>
+	<header class = indexHead>
       <a href = "index.php">
          <img src ="images/rochester.jpeg" alt="Rochester">
       </a>
