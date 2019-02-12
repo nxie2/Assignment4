@@ -10,7 +10,7 @@
       <link href="https://fonts.googleapis.com/css?family=Roboto:300i" rel="stylesheet">
 </head>
 <body class = container>
-   <header>
+   <header class = listOfTThings>
         <h1>Skittles</h1>
         <h2>Colors</h2>
         <ul>
