@@ -34,7 +34,7 @@
    </div>
 
 
-
+   <?php include "inc/footer.inc";?>
 
    <?php include "inc/nav.inc";?>
 
