@@ -6,21 +6,11 @@
 	<title>Jayde Jackson Lab 1</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<link href="https://fonts.googleapis.com/css?family=Inconsolata|Staatliches" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300i" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300i" rel="stylesheet">
 </head>
 
 <body class="container">
 
-<header>
-	<a href="index.php">
-	<h1>Jayde Jackson</h1>
-	<img src="images/jayde.jpg" alt="My Picture">
-	</a>
-</header>
+<?php include "inc/top.inc"; ?>
 
 <main>
 	<h1>Introduction</h1>
@@ -45,8 +35,6 @@
 	</p>
 </main>
 <?php include "inc/footer.inc"; ?>
-
-<?php include "inc/nav.inc";?>
 
 <script src="//code.jquery.com/jquery.js"></script>
 <script src="js/menu-highlighter.js"></script>

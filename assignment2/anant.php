@@ -11,7 +11,7 @@
 </head>
 <body class = container>
    <header>
-      <a href = "index.php">
+      <a href = "anant.php">
          <h1> Anant singh</h1>
          <img src ="images/anant.jpg" alt="ant">
       </a>
