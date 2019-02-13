@@ -29,13 +29,9 @@
 
       My conclusions are different. I believe that sentient life has no higher goal than to reduce the entropy of the universe. Thus our hunger for the improbable outcome, the novel and the unique; thus our quest for the origins of the universe; and thus indeed the rewards to the risk-taker. I hope to become an improbable type of engineer, one who builds useful as well as beautiful things.
 
-      I was born and raised in Washington and graduated from University Prep in Seattle.
-      </p>
+      My name is Anant Singh, and I am a rising sophomore pursuing a bachelor of arts in computer science at the University of Rochester. I was born and raised in Washington and graduated from University Prep in Seattle.</p>
 
-      <h1 class = subHead>Major</h1>
-      My name is Anant Singh, and I am a rising sophomore pursuing a bachelor of arts in computer science at the University of Rochester. 
-
-      <h1 class = subHead>Work Experience / Coursework</h1>
+      <h1 class = subHead>Relevant Coursework</h1>
       <p>MTH 150 Discrete Mathematics:
       •Logic, mathematical reasoning, introduction to proofs, mathematical induction, set operations, algorithms, introduction to number theory, recurrence relations, techniques of counting, graphs, as well as specific questions given by the “Towers of Hanoi,” and Euler’s “7 bridges of Konigsberg problem.”
       •Grade received: B </p>
@@ -60,7 +56,8 @@
       •Developed features allowing menu navigation, and information retrieval using JavaScript.
       •Grade received: A</p>
 
-      See my other site <a href="asingh34.github.io"> asingh34.github.io</a>
+      <h1 class = subHead>Works</h1>
+      see my other site <a href="asingh34.github.io"> asingh34.github.io</a>
    </main>
 
    <?php include "inc/footer.inc";?>
