@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
    <head>
       <title>Anant Singh | Assignment 4 | Team Rochester</title>
       <?php include "inc/top.inc"; ?>
    </head>
-   
+
    <body class = container>
       <header>
          <a href = "anant.php">

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<title>Home | Assignment 4 | Team Rochester</title>
 		<?php include "inc/top.inc"; ?>

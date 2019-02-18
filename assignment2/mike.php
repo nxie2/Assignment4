@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
-<head>
-   <title>Michael Henry | Assignment 4 | Team Rochester</title>
-  <?php include "inc/top.inc"; ?>
-</head>
+<html lang="en">
+   <head>
+      <title>Michael Henry | Assignment 4 | Team Rochester</title>
+     <?php include "inc/top.inc"; ?>
+   </head>
+   
    <body class = container>
       <header>
          <a href="mike.php">
