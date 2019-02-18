@@ -1,15 +1,10 @@
-<header>
-	<a href="index.php">
-	<h1>Jayde Jackson</h1>
-	<img src="images/jayde.jpg" alt="My Picture">
-	</a>
-</header>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<aside>
-	<ul>
-		<li>Major: DMS</li>
-		<li>Junior</li>
-		<li>2020</li>
-	</ul>
-
-</aside>
+<link rel="stylesheet" href="css/styles.css">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300i" rel="stylesheet">
