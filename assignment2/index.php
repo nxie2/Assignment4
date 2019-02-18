@@ -18,20 +18,22 @@
 
 				Rochester was one of America's first boomtowns, initially due to the fertile Genesee River Valley, which gave rise to numerous flour mills, and then as a manufacturing hub. Several of the region's universities (notably the University of Rochester and Rochester Institute of Technology) have renowned research programs. Rochester is the site of many important inventions and innovations in consumer products. The Rochester area has been the birthplace to Kodak, Western Union, French's, Bausch & Lomb, Gleason and Xerox, which conduct extensive research and manufacturing of industrial and consumer products. Until 2010, the Rochester metropolitan area was the second-largest regional economy in New York State, after the New York City metropolitan area. Rochester's GMP has since ranked just below Buffalo, New York, while exceeding it in per-capita income.
 			</p>
+		</main>
 
-			<h1>Team</h1>
+		<aside>
+			<h1 class = subHead>Team</h1>
 			<ol>
 				<li>Anant is a junior Computer Science major from Seattle.</li>
 				<li>Michael is a senior Computer Science major from NY.</li>
 				<li>Jayde is a junior Digital Media Studies major from NYC</li>
 			</ol>
-
-		</main>
+		</aside>
 
 	   <?php include "inc/footer.inc";?>
 	   <?php include "inc/nav.inc";?>
 
 		<script src="http://code.jquery.com/jquery.js"></script>
 		<script src="js/menu-highlighter.js"></script>
+
 	</body>
 </html>
